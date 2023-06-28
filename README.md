@@ -19,6 +19,7 @@ My recommender (HR@10: 0.263747) was able to beat Amazon Recommender (HR@10: 0.2
 Comparing to my previous project on the same data I also managed to get a better HR@10.
 
 Linear Regression Content-based Recommender: HR@10: 0.239308
+
 Neural Network Recommender: HR@10: 0.263747
 
 More info about this project can be found in summary in "project_2_recommender_and_evaluation.ipynb"
