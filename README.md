@@ -13,7 +13,7 @@ The final goal was to achieve as high HR@10 as possible and perhaps beat Amazon 
 
 ## Results and conclusions
 The results are shown in a table below:
-!(img/results.png)
+![](img/results.png)
 
 My recommender (HR@10: 0.263747) was able to beat Amazon Recommender (HR@10: 0.223693) and Netflix Recommender (HR@10: 0.229124).
 Comparing to my previous project on the same data I also managed to get a better HR@10.
@@ -25,6 +25,7 @@ More info about this project can be found in summary in "project_2_recommender_a
 
 
 ## Requirements to run
+<pre>
 Python 3.8 or newer
 pip install jupyter
 pip install numpy
@@ -34,3 +35,4 @@ pip install seaborn
 pip install sklearn
 pip install hyperopt
 pip install torch
+</pre>
